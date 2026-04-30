@@ -1,0 +1,6 @@
+{
+  "name": "Aura",
+  "description": "Generate unique phone wallpapers based on your current vibe using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
